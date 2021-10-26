@@ -1,0 +1,3 @@
+R5T.L0016.Construction - Construction project for Microsoft.AspNetCore Nuget packages selector..
+
+GOALS:
